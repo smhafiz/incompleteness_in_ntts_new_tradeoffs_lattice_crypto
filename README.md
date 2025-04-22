@@ -1,2 +1,2 @@
 # incompleteness_in_ntts_new_tradeoffs_lattice_crypto
-This is the repository of the results illustrated in the paper of Incompleteness in Number-Theoretic Transforms: New Tradeoffs and Faster Lattice-Based Cryptographic Applications published in the 10th IEEE Euro S&amp;P.
+This repository contains the results presented in the paper Incompleteness in Number-Theoretic Transforms: New Tradeoffs and Faster Lattice-Based Cryptographic Applications, published at the 10th IEEE Euro S&P. The code and scripts used to generate the evaluation results will be shared upon completion of LG's open-source release approval process.
